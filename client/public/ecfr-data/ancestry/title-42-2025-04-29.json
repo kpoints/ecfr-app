@@ -1,0 +1,13 @@
+{
+  "ancestors": [
+    {
+      "identifier": "42",
+      "label": "Title 42—Public Health",
+      "label_level": "Title 42",
+      "label_description": "Public Health",
+      "reserved": false,
+      "type": "title",
+      "size": 22854724
+    }
+  ]
+}
